@@ -21,6 +21,9 @@ python3 prophecy.py
 
 This runs all four combinations of `touches_cattle_of_helios` and `all_crew_obey`, and prints the resulting outcome for each - showing that the "prophecy" is really just a deterministic function of two inputs.
 
+## Output
+<img width="930" height="710" alt="Screenshot 2026-08-20 at 4 39 08 PM" src="https://github.com/user-attachments/assets/e66c5db0-8db8-4e78-9e3d-ffa7f89df4b3" />
+
 ## Why
 
 Prophecy in epic poetry often gets treated as something oracular and unknowable. But structurally, it's frequently just a conditional: *do X, get outcome A; do Y, get outcome B.* This repo is a small, half-joking experiment in visualizing that mechanical logic as literal code.
